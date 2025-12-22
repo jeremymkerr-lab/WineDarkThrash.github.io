@@ -2,11 +2,14 @@
 
 An interactive digital map for the *Wine Dark Thrash* Reach.
 
-👉 **[Open the Map](https://JeremymKerr-lab.github.io/)**
+👉 **[Open the Map](https://WineDarkThrash.github.io/)**
 
 ## How to Use
 - Click settlement icons to open lore panels
+- Inside the settlements are NPCs of interest
+- Also inside are Sights and Sounds of the settlement. 
 - Click on forest names to view the spark tables for each forest
+- Nothing in the wrecks for now. I might add some of that later. 
 - Scroll and zoom to explore the world
 
 ## Best Experience
