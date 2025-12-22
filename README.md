@@ -2,7 +2,7 @@
 
 An interactive digital map for the *Wine Dark Thrash* Reach.
 
-👉 **[Open the Map](https://WineDarkThrash.github.io/)**
+👉 **[Open the Map](https://jeremymkerr-lab.github.io/WineDarkThrash.github.io/)**
 
 ## How to Use
 - Click settlement icons to open lore panels
